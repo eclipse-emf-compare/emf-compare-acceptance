@@ -7,3 +7,6 @@
 [submodule "testGitUML"]
 	path = testGitUML
 	url = ssh://git.eclipse.org:29418/emfcompare/acceptance-submodules/testGitUML.git
+[submodule "testGitUMLDesigner"]
+	path = testGitUMLDesigner
+	url = ssh://git.eclipse.org:29418/emfcompare/acceptance-submodules/testGitUMLDesigner.git
