@@ -1,0 +1,3 @@
+[submodule "testGitExtLibrary"]
+	path = testGitExtLibrary
+	url = ssh://git.eclipse.org/gitroot/emfcompare/acceptance-submodules/testGitExtLibrary.git
