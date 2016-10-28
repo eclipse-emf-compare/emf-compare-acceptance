@@ -4,3 +4,6 @@
 [submodule "testGitExtLibraryID"]
 	path = testGitExtLibraryID
 	url = ssh://git.eclipse.org:29418/emfcompare/acceptance-submodules/testGitExtLibraryID.git
+[submodule "testGitUML"]
+	path = testGitUML
+	url = ssh://git.eclipse.org:29418/emfcompare/acceptance-submodules/testGitUML.git
